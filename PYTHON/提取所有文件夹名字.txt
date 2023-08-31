@@ -1,0 +1,6 @@
+dir /a-d /b *.ipynb>src.txt
+echo
+pause
+
+后缀改成bat
+运行后 自动生成src文件
